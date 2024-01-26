@@ -12,4 +12,8 @@ given set.
 
       Code:-
 
+![image](https://github.com/bajrangimishra9/Mini_Project_ComboFinder/assets/155826931/760a0a47-2b54-465c-ae2d-835c1538a1c9)
  
+      Output:-
+
+![image](https://github.com/bajrangimishra9/Mini_Project_ComboFinder/assets/155826931/16f5a456-472f-4af8-b766-94c1946dd519)
